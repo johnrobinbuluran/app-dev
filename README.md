@@ -7,8 +7,8 @@ My first repository
 
 **Strawhat Pirates Members**
 
-*Luffy*
-*Zoro*
+1. *Luffy*
+2. *Zoro*
 *Nami*
 *Ussop*
 *Sanji*
