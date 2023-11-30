@@ -7,11 +7,15 @@ My first repository
 
 **Strawhat Pirates Members**
 
-	1. Luffy
-2. *Zoro*
-*Nami*
-*Ussop*
-*Sanji*
-*Robin*
-*Chopper*
-*Jimbei*
+1. Luffy
+2. Zoro
+3. Nami
+4. Ussop
+5. Sanji
+6. Robin
+7. Chopper
+8. Franky
+9. Jimbei
+    
+
+
